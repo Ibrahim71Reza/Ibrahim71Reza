@@ -6,13 +6,13 @@
 <div align="center">
 
   <!-- HERO -->
-  <a href="https://ibrahimreza.vercel.app">
+  <a href="https://ibrahim-reza.vercel.app">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:064E3B,100:10B981&height=270&section=header&text=Md.%20Ibrahim%20Reza%20Rabbi&fontSize=44&fontColor=F8FAFC&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Offensive%20Security%20%E2%80%A2%20CTF%20Player%20%E2%80%A2%20Applied%20AI&descSize=17&descAlignY=57&animation=twinkling" alt="Md. Ibrahim Reza Rabbi — Software Engineer, Offensive Security and Applied AI" />
   </a>
 
   <!-- GITHUB-COMPATIBLE ANIMATED LINUX TERMINAL -->
   <!-- Keep this file at: assets/arc4n3-terminal.svg -->
-  <a href="https://ibrahimreza.vercel.app">
+  <a href="https://ibrahim-reza.vercel.app">
     <img width="100%" src="./assets/arc4n3-terminal.svg" alt="Animated Arc4n3 Kali Linux terminal" />
   </a>
   
@@ -23,9 +23,6 @@
   <br><br>
 
   <!-- PRIMARY LINKS -->
-  <a href="https://ibrahimreza.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <!-- REPLACE THE '#' BELOW WITH YOUR ACTUAL RESUME PDF LINK -->
   <a href="#">
     <img src="https://img.shields.io/badge/RESUME%2FCV-F8FAFC?style=for-the-badge&logo=readdotcv&logoColor=020617&labelColor=10B981" alt="Resume" />
@@ -38,6 +35,9 @@
   </a>
   <a href="https://tryhackme.com/p/Arc4n3">
     <img src="https://img.shields.io/badge/TRYHACKME-Arc4n3-DC143C?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Arc4n3" />
+  </a>
+  <a href="https://ibrahim-reza.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:ibrareza2020@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -323,17 +323,17 @@ A cross-platform educational productivity application supporting organized learn
 
 <div align="center">
   <a href="https://github.com/Ibrahim71Reza/password_finder">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim71Reza&repo=password_finder&theme=dark&bg_color=020617&title_color=34D399&icon_color=10B981&text_color=CBD5E1&border_color=10B981&border_radius=12" alt="Password Finder Repo" />
+    <img width="49%" src="./assets/arc4n3-project-password-finder.svg" alt="Password Finder repository card" />
   </a>
   <a href="https://github.com/Ibrahim71Reza/dnsRecon">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim71Reza&repo=dnsRecon&theme=dark&bg_color=020617&title_color=34D399&icon_color=10B981&text_color=CBD5E1&border_color=10B981&border_radius=12" alt="dnsRecon Repo" />
+    <img width="49%" src="./assets/arc4n3-project-dnsrecon.svg" alt="dnsRecon repository card" />
   </a>
   <br><br>
   <a href="https://github.com/Ibrahim71Reza/frequency-cipher-cracker">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim71Reza&repo=frequency-cipher-cracker&theme=dark&bg_color=020617&title_color=34D399&icon_color=10B981&text_color=CBD5E1&border_color=10B981&border_radius=12" alt="Frequency Cipher Repo" />
+    <img width="49%" src="./assets/arc4n3-project-frequency-cipher.svg" alt="Frequency Cipher Cracker repository card" />
   </a>
   <a href="https://github.com/Ibrahim71Reza/UltimateLocker">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim71Reza&repo=UltimateLocker&theme=dark&bg_color=020617&title_color=34D399&icon_color=10B981&text_color=CBD5E1&border_color=10B981&border_radius=12" alt="UltimateLocker Repo" />
+    <img width="49%" src="./assets/arc4n3-project-ultimatelocker.svg" alt="UltimateLocker repository card" />
   </a>
 </div>
 
@@ -367,7 +367,13 @@ An assistive-technology system combining purpose-built hardware with mobile appl
 ## 🛡️ Cyber Journey
 
 <a href="https://tryhackme.com/p/Arc4n3">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/arc4n3.png" alt="Arc4n3 TryHackMe badge" width="100%" />
+  <img
+    src="https://cdn-images.tryhackme.com/user-avatars/64634dfa43102f0056959a67-1764917107791"
+    alt="Arc4n3 TryHackMe badge"
+    width="150"
+    height="150"
+    style="border-radius: 50%; object-fit: cover;"
+  />
 </a>
 
 <br>
@@ -394,17 +400,15 @@ An assistive-technology system combining purpose-built hardware with mobile appl
 
 <div align="center">
 
-  <a href="https://github.com/Ibrahim71Reza">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ibrahim71Reza&show_icons=true&hide_border=false&bg_color=020617&title_color=34D399&icon_color=10B981&text_color=CBD5E1&border_color=10B981&border_radius=12&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/Ibrahim71Reza">
-    <img width="49%" src="https://streak-stats.demolab.com?user=Ibrahim71Reza&hide_border=false&background=020617&ring=10B981&fire=34D399&currStreakLabel=34D399&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC&border=10B981&stroke=10B981&borderRadius=12" alt="GitHub streak" />
-  </a>
+  <img width="100%" src="./assets/arc4n3-github-command-center.svg" alt="Arc4n3 GitHub command center" />
 
   <br><br>
 
   <a href="https://github.com/Ibrahim71Reza">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim71Reza&layout=compact&langs_count=8&hide_border=false&bg_color=020617&title_color=34D399&text_color=CBD5E1&border_color=10B981&border_radius=12" alt="Most-used languages" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=Ibrahim71Reza&hide_border=false&background=020617&ring=10B981&fire=34D399&currStreakLabel=34D399&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC&border=10B981&stroke=10B981&borderRadius=12" alt="GitHub contribution streak" />
+  </a>
+  <a href="https://github.com/Ibrahim71Reza">
+    <img width="49%" src="./assets/arc4n3-language-spectrum.svg" alt="Arc4n3 stack spectrum chart" />
   </a>
 
   <br><br>
@@ -448,13 +452,13 @@ An assistive-technology system combining purpose-built hardware with mobile appl
   <a href="https://www.linkedin.com/in/ibrahim-reza-b12427415">
     <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://ibrahimreza.vercel.app">
+  <a href="https://ibrahim-reza.vercel.app">
     <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" />
   </a>
 
   <br><br>
 
-  <a href="https://ibrahimreza.vercel.app">
+  <a href="https://ibrahim-reza.vercel.app">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,55:064E3B,100:020617&height=130&section=footer&animation=twinkling" alt="Footer wave" />
   </a>
 
