@@ -85,7 +85,6 @@ verified_signals:
   research: "2 peer-reviewed IEEE publications"
   cybersecurity: "Top 3% globally on TryHackMe"
   innovation: "Top 10 CES Pavilion innovation — BEAR Summit 2026"
-  academics: "Dean's Award for Academic Excellence"
 
 mission: >
   Build secure, intelligent and accessible technology that solves
@@ -113,7 +112,6 @@ I build secure web platforms, browser and editor extensions, cybersecurity utili
 - 🛡️ **Top 3% globally** on TryHackMe as **Arc4n3**
 - 📄 Co-author of **two peer-reviewed IEEE papers**
 - 🏆 **Top 10 CES Pavilion** innovation at BEAR Summit 2026
-- 🎓 **Dean's Award** for Academic Excellence
 - 🧩 Published developer on the Chrome and VS Code stores
 
 </td>
