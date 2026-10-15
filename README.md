@@ -83,7 +83,7 @@ core_capabilities:
 
 verified_signals:
   research: "2 peer-reviewed IEEE publications"
-  cybersecurity: "Top 3% globally on TryHackMe"
+  cybersecurity: "Top 2% globally on TryHackMe"
   innovation: "Top 10 CES Pavilion innovation — BEAR Summit 2026"
 
 mission: >
