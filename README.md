@@ -109,7 +109,7 @@ I build secure web platforms, browser and editor extensions, cybersecurity utili
 
 ### ⚡ Impact
 
-- 🛡️ **Top 3% globally** on TryHackMe as **Arc4n3**
+- 🛡️ **Top 2% globally** on TryHackMe as **Arc4n3**
 - 📄 Co-author of **two peer-reviewed IEEE papers**
 - 🏆 **Top 10 CES Pavilion** innovation at BEAR Summit 2026
 - 🧩 Published developer on the Chrome and VS Code stores
